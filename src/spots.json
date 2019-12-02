@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Adams Boulevard",
+    "picture": "images/vaga1.jpg",
+    "distance": 3,
+    "location": "60466",
+    "price": "U$3 per hour"
+  },
+  {
+    "id": 1,
+    "name": "Abbey Road",
+    "picture": "images/vaga2.jpg",
+    "age": 3,
+    "location": "16801",
+    "price": "U$6 per hour"
+  },
+  {
+    "id": 2,
+    "name": "Brick Lane",
+    "picture": "images/vaga3.jpg",
+    "distance": 2,
+    "location": "38384",
+    "price": "U$2 per hour"
+  },
+  {
+    "id": 3,
+    "name": "Oxford Street",
+    "picture": "images/vaga4.jpg",
+    "distance": 2,
+    "location": "89340",
+    "price": "U$3 per hour"
+  },
+  {
+    "id": 4,
+    "name": "Sunset Boulevard",
+    "picture": "images/vaga5.jpg",
+    "distance": 2,
+    "location": "93748",
+    "price": "U$2.5 per hour"
+  },
+  {
+    "id": 5,
+    "name": "Carnaby Street",
+    "picture": "images/vaga2.jpg",
+    "distance": 3,
+    "location": "37492",
+    "price": "U$6 per hour"
+  },
+  {
+    "id": 6,
+    "name": "Latisha Avenue",
+    "picture": "images/vaga3.jpg",
+    "distance": 3,
+    "location": "12839",
+    "price": "U$3.5 per hour"
+  },
+  {
+    "id": 7,
+    "name": "Coleman Road",
+    "picture": "images/vaga6.jpeg",
+    "distance": 3,
+    "location": "22484",
+    "price": "U$4.2 per hour"
+  },
+  {
+    "id": 8,
+    "name": "Christie Street",
+    "picture": "images/vaga5.jpg",
+    "distance": 2,
+    "location": "49202",
+    "price": "U$4.5 per hour"
+  },
+  {
+    "id": 9,
+    "name": "Danforth Avenue",
+    "picture": "images/vaga7.jpg",
+    "distance": 3,
+    "location": "56267",
+    "price": "U$2.8 per hour"
+  },
+  {
+    "id": 10,
+    "name": "29th Ave Station",
+    "picture": "images/vaga8.jpeg",
+    "distance": 2,
+    "location": "22349",
+    "price": "U$2.3 per hour"
+  },
+  {
+    "id": 11,
+    "name": "Youge Street",
+    "picture": "images/vaga2.jpg",
+    "distance": 3,
+    "location": "29001",
+    "price": "U$5.2 per hour"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson Road",
+    "picture": "images/vaga3.jpg",
+    "distance": 3,
+    "location": "12902",
+    "price": "U$2.6 per hour"
+  },
+  {
+    "id": 13,
+    "name": "Adera Street",
+    "picture": "images/vaga1.jpg",
+    "distance": 4,
+    "location": "83282",
+    "price": "U$7 per hour"
+  },
+  {
+    "id": 14,
+    "name": "Spadina Avenue",
+    "picture": "images/vaga6.jpeg",
+    "distance": 2,
+    "location": "17292",
+    "price": "U$4.5 per hour" 
+  },
+  {
+    "id": 15,
+    "name": "Hemlock Drive",
+    "picture": "images/vaga8.jpeg",
+    "distance": 2,
+    "location": "15502",
+    "price": "U$4.7 per hour"
+  }
+]
